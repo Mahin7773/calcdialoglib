@@ -32,4 +32,4 @@ dependencies {
 
 tasks.withType(Javadoc).all { enabled = false }
 
-apply from: "publishing.gradle"
+//apply from: "publishing.gradle"
