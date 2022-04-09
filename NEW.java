@@ -1,18 +1,18 @@
 public class NEW {
-    private int value;
+    private int conflictValue;
     //constructor
     NEW(int v)
         {
-            value=v;
+            conflictValue=v;
         }
     //getter
     public int getValue()
         {
-            return value;
+            return conflictValue;
         }
     //setter
     public int setValue(int v)
         {
-            value=v;
+            conflictValue=v;
         }
 }
